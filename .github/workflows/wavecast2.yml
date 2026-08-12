@@ -6,6 +6,7 @@ on:
     # GitHub uses UTC
     # 6 AM EDT = 10 AM UTC
     - cron: '55 22 * * *'
+    - cron: '2 23 * * *'
     - cron: '0 10 * * *'
 
   workflow_dispatch:
