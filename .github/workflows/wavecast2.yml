@@ -5,8 +5,8 @@ on:
     # 6 AM Eastern
     # GitHub uses UTC
     # 6 AM EDT = 10 AM UTC
-    - cron: '55 22 * * *'
-    - cron: '2 23 * * *'
+    - cron: '55 23 * * *'
+    - cron: '15 23 * * *'
     - cron: '0 01 * * *'
     - cron: '0 10 * * *'
 
