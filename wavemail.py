@@ -12,7 +12,7 @@ from datetime import datetime, UTC
 LAT = 43
 LON = -70.25  # Boston Harbor entrance
 
-FORECAST_HOURS = range(0, 480, 3)
+FORECAST_HOURS = range(0, 1000, 3)
 
 # ============================================
 # DATE
